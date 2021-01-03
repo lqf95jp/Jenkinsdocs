@@ -1,4 +1,4 @@
-# Jenkins实践文档
+# Jenkins实践文档a'a
 
 ## 第1章 认识Jenkins
 
@@ -56,7 +56,7 @@
 ## 第7章 后端项目流水线实践
  - [7.1 Java Springboot项目发布](chapter/springboot项目流水线.md)
  - [7.2 Go Golang项目发布](chapter/Golang项目流水线.md)
- 
+
 ## 第8章 移动端流水线实践
  -  [8.1 基于Centos搭建Android打包环境](chapter/android/Android打包环境.md)
  -  [8.2 Android项目手动发布](chapter/android/Android发布(手动).md)
@@ -69,8 +69,8 @@
  - [10.1 JenkinsSlave容器化配置](chapter/JenkinsSlave容器化配置.md)
  - [10.2 基于OpenShift部署Jenkins](chapter/Jenkins-in-Openshift.md)
  - [10.3 基于OpenShift部署构建资源池](chapter/openshift-jenkins/基于OpenShit搭建Jenkins构建资源池.md)
- 
- 
+
+
  ## 第11章 其他配置
  - [ 11.1 Jenkins+InfluxDB+Grafana收集构建数据 ](chapter/Jenkins+InfluxDB+Grafana收集构建数据.md)
 
